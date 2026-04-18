@@ -1,3 +1,5 @@
+# voice-claude
+一个为claude code写的脚本，脚本功能是语音代替打字往claude code 的CLI窗口输入框里输入文字。
 # voice-claude 使用文档
 
 语音输入工具，按住快捷键说话，松开后自动将识别的文字发送到 Claude CLI。
